@@ -20,5 +20,15 @@ This application is designed with a **$0 operational cost architecture**, runnin
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/MZ-T3CH/ai-video-dubb.git
+
+Navigate into the project directory:
+cd ai-video-dubb
+
+Install the required software packages:
+Bash
+pip install -r requirements.txt
+
+Start the local interface panel:
+streamlit run ai-dub-vid.py
+
